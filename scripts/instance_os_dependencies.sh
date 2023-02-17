@@ -5,4 +5,4 @@
 
 sudo yum install -y python3-pip
 sudo amazon-linux-extras install nginx1 #centos 7
-python3 -m venv python3-virtualenv
+sudo python3 -m venv virtualenv
